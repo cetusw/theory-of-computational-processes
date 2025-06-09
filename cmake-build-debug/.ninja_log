@@ -1,0 +1,13 @@
+# ninja log v6
+3	162	1749414665414065348	CMakeFiles/tcp.dir/main.cpp.o.ddi	44322a7cf1355f89
+162	168	1749414665573065738	CMakeFiles/tcp.dir/CXX.dd	7c2d6244e9c15d57
+162	168	1749414665573065738	CMakeFiles/tcp.dir/main.cpp.o.modmap	7c2d6244e9c15d57
+162	168	1749414665573065738	/home/cetus/Documents/projects/tcp/cmake-build-debug/CMakeFiles/tcp.dir/CXXModules.json	7c2d6244e9c15d57
+168	1649	1749414665579065753	CMakeFiles/tcp.dir/main.cpp.o	256c2cd2f0f8c21b
+1649	1752	1749414667060069365	tcp	cbd894d69aec0f58
+3	159	1749493517020641142	CMakeFiles/tcp.dir/main.cpp.o.ddi	44322a7cf1355f89
+159	165	1749493517176639632	CMakeFiles/tcp.dir/CXX.dd	7c2d6244e9c15d57
+159	165	1749493517176639632	/home/cetus/Documents/projects/tcp/cmake-build-debug/CMakeFiles/tcp.dir/CXXModules.json	7c2d6244e9c15d57
+159	165	1749493517176639632	CMakeFiles/tcp.dir/main.cpp.o.modmap	7c2d6244e9c15d57
+165	1503	1749493517182639573	CMakeFiles/tcp.dir/main.cpp.o	256c2cd2f0f8c21b
+1503	1624	1749493518520626609	tcp	cbd894d69aec0f58
